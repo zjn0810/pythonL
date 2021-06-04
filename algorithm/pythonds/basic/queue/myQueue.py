@@ -21,5 +21,8 @@ class Queue:
     
     def size(self):
         return len(self.items)
+    
+    def queue_print(self):
+        print(self.items)
         
     
