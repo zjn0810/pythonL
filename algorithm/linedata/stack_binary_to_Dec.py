@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/zhangjn/pythonL/MOOC/algorithm/')
+sys.path.append('/home/zhangjn/software/pythonSpace/algorithm/')
 from pythonds.basic.stack.myStack import Stack
 
 # =============================================================================
