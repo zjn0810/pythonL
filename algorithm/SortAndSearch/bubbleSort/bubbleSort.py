@@ -28,7 +28,7 @@ def bubbleSort(items):
     times = len(items) - 1
     while times > 0 and exchanges:
         exchanges = False
-        print(times, end = ' ')
+#        print(times, end = ' ')
         for i in range(times):
             if items[i] > items[i + 1]:
                 temp = items[i]
