@@ -35,8 +35,7 @@ def gapInsertionSort(items, start, gap):
     
 items = [23,45,56,34,345,26,66,88,46]
 print(items)
-print(shellSort(items))     
-    
+print(shellSort(items))
     
     
     
